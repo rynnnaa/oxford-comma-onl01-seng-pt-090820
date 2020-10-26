@@ -11,6 +11,7 @@ def oxford_comma(array)
     binding.pry
   else
     array.join(", ")
+    binding.pry
   end
 
 end
